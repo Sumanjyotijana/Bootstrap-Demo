@@ -40,44 +40,33 @@
 }
 
 .first-tab {
-    /* background-color: #ffffff66;
-
-    border-radius: 25px;
-    height: 39px;
-    /* padding-top: 4px; */
-    padding: 13px 32px 14px !important;
-    margin-top: -4px !important;
-    display: flex !important;
-    flex-direction: column-reverse !important;
-    justify-content: center !important;
-} */
-
+    background-color: #ffffff66 !important;
+    padding: 16px 45px !important;
+    line-height: 1 !important;
+    font-size: 19px !important;
+    border-radius: 25px !important;
+}
 
 .afterfirst-tab {
-    border-radius: 25px;
-    height: 39px;
-    padding-top: 4px;
-    display: inline-block;
 
     &:hover {
-        background-color: #ffffff66;
-        border-radius: 25px;
-        height: 39px;
-        padding-top: 4px;
-        display: inline-block;
+        background-color: #ffffff66 !important;
+        padding: 16px 45px !important;
+        line-height: 1 !important;
+        font-size: 19px !important;
+        border-radius: 25px !important;
     }
 }
 
 
-.last-tab {
-    background-color: #ee626b;
-    border-radius: 25px;
+.lastlast-tab {
+    background-color: #ee626b !important;
+    padding: 16px 45px !important;
+    line-height: 1 !important;
+    font-size: 19px !important;
+    border-radius: 25px !important;
     text-transform: uppercase !important;
-    /* padding: 9px 29px 12px ; */
-    padding-right: 61px;
-    display: flex;
-    flex-direction: column-reverse;
-    margin-top: 1px;
+    font-weight: 500 !important;
 }
 
 .main {
@@ -424,7 +413,7 @@ h4 {
     background-color: #f7f7f7;
     padding: 100px 0px;
     border-radius: 150px;
-    margin: 60px;
+
 }
 
 /* categories styles */
@@ -450,14 +439,14 @@ h4 {
     border-radius: 25px;
     text-align: center;
     margin-bottom: 30px;
-    
+
 }
 
 .cr {
     font-size: 17px;
     font-weight: 600;
     color: #fff;
-    /* padding: 22px; */
+    padding: 22px;
     margin-bottom: 3px;
 }
 
